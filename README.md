@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anshita005
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 👀 I’m learning DSA and CP ans also working on web development and Blockchain. 
 -
 
 <!---
