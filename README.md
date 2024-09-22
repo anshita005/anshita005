@@ -1,7 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbhumika-1127&psig=AOvVaw31R8K3yxP-SPlwPDglolvO&ust=1727107086104000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiQ87T11ogDFQAAAAAdAAAAABAE)]
+
 <h1 align="center">Hi 👋, I'm Anshita Sharma</h1>
-<h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=ee9db3ddaf6e69ff&sca_upv=1&sxsrf=ADLYWIJ9Hw2Tzzg4EXEGUrvtzzg_OlcpEQ:1727020305837&q=Animated+Coding+GIF+girl+with+languages&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOYMMWTNCTu57lKPsZpPcfqPInr9nYx0o93U7Rc7eYLjY8rHfXDyJvzANAPW-eY7dQEKdjcd3IWT54WmvsgeSoNBUWKLTIlAo8Fppf2Mq6OemXZwWasDWYJol8vOMv8uuvqbztY2&sa=X&ved=2ahUKEwj5neX-89aIAxUoU2wGHZ8AGdUQtKgLegQIFRAB&biw=767&bih=730&dpr=1.25#imgrc=RH24U8q5YXtW7M&imgdii=qxKp-qMrimMqoM">
+
 
 
 - 🌱 I’m currently learning **ReactJs**
