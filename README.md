@@ -6,7 +6,7 @@
 - 🌱 Currently exploring **MERN stack development and deepening my knowledge in Data Structures and Algorithms (DSA)**
 - 📫 How to reach me **anshitasharma2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zvHu7cNKnhp3rgaGVmtqzTS_Slg9jhvU/view?usp=sharing](https://drive.google.com/file/d/1zvHu7cNKnhp3rgaGVmtqzTS_Slg9jhvU/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1m8pxbnG5tiue7G-IZsKd5BLTvZZ35rxU/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
