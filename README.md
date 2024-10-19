@@ -3,8 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJs**
-
+- 🌱 Currently exploring **MERN stack development and deepening my knowledge in Data Structures and Algorithms (DSA)**
 - 📫 How to reach me **anshitasharma2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zvHu7cNKnhp3rgaGVmtqzTS_Slg9jhvU/view?usp=sharing](https://drive.google.com/file/d/1zvHu7cNKnhp3rgaGVmtqzTS_Slg9jhvU/view?usp=sharing)
